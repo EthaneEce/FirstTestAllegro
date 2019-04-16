@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1520952600 source:c:\users\ethane\desktop\ecole\informatique\projet\premier test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+
+1523613804 source:c:\users\ethane\desktop\ecole\informatique\projet\allegro\premier test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+
+1521623424 source:c:\users\ethane\desktop\ecole\informatique\projet\allegro\premier test\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+
+1521623424 source:c:\users\ethane\desktop\ecole\informatique\ing 1\projet\allegro\premier test\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+
+1523613804 source:c:\users\ethane\desktop\ecole\informatique\ing 1\projet\allegro\premier test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+
